@@ -1,0 +1,16 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "source": "index.js",
+  "main": "bundle.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}

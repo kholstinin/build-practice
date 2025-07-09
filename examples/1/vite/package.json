@@ -1,0 +1,17 @@
+{
+  "name": "vite",
+  "version": "1.0.0",
+  "source": "index.js",
+  "main": "bundle.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.6",
+    "vite": "^7.0.2"
+  }
+}

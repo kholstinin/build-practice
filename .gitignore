@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+
+.yarn/*
+!.yarn/releases
+bower_components
+
+bundle.js
+bundle.mjs
+bundle.umd.js
+bundle.iife.js
+.parcel-cache

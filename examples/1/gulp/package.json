@@ -1,0 +1,16 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-concat": "^2.6.1"
+  }
+}

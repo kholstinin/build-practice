@@ -1,0 +1,20 @@
+{
+  "name": "showcase",
+  "authors": [
+    "kholstinin <kholstinin.da@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
