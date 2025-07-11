@@ -1,0 +1,25 @@
+{
+  "name": "module-runtime",
+  "version": "1.0.0",
+  "scripts": {
+    "build:webpack": "webpack",
+    "vite": "vite",
+    "parcel": "parcel index.html",
+    "build:parcel": "parcel build index.html --no-optimize",
+    "build:rollup": "rollup -i ./index.js -d ./dist",
+    "build:vite": "vite build",
+    "build:esbuild": "node esbuild"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "esbuild": "^0.25.5",
+    "parcel": "^2.15.4",
+    "rollup": "^4.44.1",
+    "vite": "^7.0.2",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
