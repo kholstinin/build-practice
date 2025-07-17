@@ -1,0 +1,17 @@
+{
+  "name": "preset-env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js -o output.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0"
+  }
+}

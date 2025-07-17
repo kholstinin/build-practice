@@ -10,3 +10,5 @@ bundle.mjs
 bundle.umd.js
 bundle.iife.js
 .parcel-cache
+dist
+output.js
