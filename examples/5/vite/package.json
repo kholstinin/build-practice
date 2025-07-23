@@ -1,0 +1,17 @@
+{
+  "name": "vite-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.5",
+    "vite-plugin-commonjs": "^0.10.4"
+  }
+}

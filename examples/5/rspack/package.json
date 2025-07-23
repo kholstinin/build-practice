@@ -1,0 +1,17 @@
+{
+  "name": "rspack-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_ENV=development rspack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@rspack/cli": "^1.4.8",
+    "@rspack/core": "^1.4.8",
+    "html-webpack-plugin": "^5.6.3"
+  }
+}
