@@ -1,0 +1,14 @@
+{
+  "name": "glob-6",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.6",
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1"
+  }
+}

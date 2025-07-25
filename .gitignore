@@ -12,3 +12,5 @@ bundle.iife.js
 .parcel-cache
 dist
 output.js
+
+compilation-stats.json

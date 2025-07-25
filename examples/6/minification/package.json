@@ -1,0 +1,17 @@
+{
+  "name": "minification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "compression-webpack-plugin": "^11.1.0",
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1"
+  }
+}

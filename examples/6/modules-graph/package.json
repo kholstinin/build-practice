@@ -1,0 +1,16 @@
+{
+  "name": "modules-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dpdm": "^3.14.0",
+    "skott": "^0.35.4"
+  }
+}
