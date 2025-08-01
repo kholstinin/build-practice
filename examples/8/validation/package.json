@@ -1,0 +1,17 @@
+{
+  "name": "validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "vite": "^7.0.6",
+    "zod": "^4.0.14"
+  }
+}

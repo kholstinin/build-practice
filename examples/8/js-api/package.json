@@ -1,0 +1,15 @@
+{
+  "name": "js-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node --experimental-strip-types build.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.101.0"
+  }
+}
