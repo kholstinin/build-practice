@@ -1,0 +1,13 @@
+{
+  "name": "library-exports",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": {
+    ".": "./src/index.js"
+  }
+}

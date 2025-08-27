@@ -1,0 +1,15 @@
+{
+  "name": "bundler-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fields-library": "1.0.0",
+    "library": "1.0.0",
+    "ts-library": "1.0.0",
+    "user-conditional-library": "1.0.0"
+  }
+}

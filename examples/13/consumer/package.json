@@ -1,14 +1,13 @@
 {
-  "name": "external-package",
+  "name": "consumer",
   "version": "1.0.0",
+  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
-  "imports": {
-    "#src/*": "./src/*"
-  },
   "dependencies": {
-    "react": "18.0.0"
+    "conditional-library": "1.0.0",
+    "library": "1.0.0"
   }
 }

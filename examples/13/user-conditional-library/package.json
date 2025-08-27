@@ -1,0 +1,14 @@
+{
+  "name": "user-conditional-library",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": {
+    "development": "./src/cjs.js",
+    "webpack": "./src/webpack.js",
+    "import": "./src/esm.js",
+    "require": "./src/cjs.js"
+  }
+}

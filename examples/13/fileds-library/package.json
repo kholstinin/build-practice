@@ -1,0 +1,9 @@
+{
+  "name": "fields-library",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "browser": "./src/browser.js"
+}

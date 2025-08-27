@@ -1,0 +1,12 @@
+{
+  "name": "conditional-library",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": {
+    "import": "./src/esm.js",
+    "require": "./src/cjs.js"
+  }
+}
