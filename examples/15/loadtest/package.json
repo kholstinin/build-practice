@@ -1,0 +1,25 @@
+{
+  "name": "loadtest-15",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build --ssr src/entry-server.tsx --outDir dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^5.5.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^5.0.2",
+    "loadtest": "^8.2.0",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.4"
+  }
+}
