@@ -1,0 +1,7 @@
+.Button {
+  font-size: 30px;
+  padding: 10px;
+  background-color: lch(30 20 50);
+  cursor: pointer;
+  display: inline-block;
+}
