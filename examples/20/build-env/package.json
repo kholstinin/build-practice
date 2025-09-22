@@ -1,0 +1,17 @@
+{
+  "name": "build-env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:vite": "vite build --ssr src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.1.6",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1"
+  }
+}
